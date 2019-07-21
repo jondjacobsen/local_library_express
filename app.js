@@ -38,4 +38,10 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+var wiki = require('./wiki.js');
+// ...
+app.use('/wiki', wiki);
+
+app.use(express.static('public'));
+
 module.exports = app;

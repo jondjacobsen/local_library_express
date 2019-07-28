@@ -4,3 +4,8 @@
 * 7/22/2019 - Section One [Complete](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction#See_also)
 * 7/22/2019 - Started [Setting up a Node development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
 * 7/23/2019 - Up to and through [Using NPM](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Using_NPM)
+* 7/28/2019 - Through [Adding Dependencies](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Adding_dependencies)
+* 7/28/2019 - Through [Development Dependencies](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Development_dependencies)
+* 7/28/2019 - Main Topic - [Intalling the Express Generator](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Installing_the_Express_Application_Generator)
+---
+ 

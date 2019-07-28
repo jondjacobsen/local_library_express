@@ -1,10 +1,14 @@
 {
   "name": "local-library",
   "version": "0.0.0",
+  "description": "MDN Developers App",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "lint": "eslint src/js",
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
@@ -13,5 +17,8 @@
     "mongodb": "^3.3.0-beta2",
     "morgan": "^1.9.1",
     "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
   }
 }

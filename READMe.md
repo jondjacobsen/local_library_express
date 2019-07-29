@@ -7,5 +7,6 @@
 * 7/28/2019 - Through [Adding Dependencies](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Adding_dependencies)
 * 7/28/2019 - Through [Development Dependencies](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Development_dependencies)
 * 7/28/2019 - Main Topic - [Intalling the Express Generator](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Installing_the_Express_Application_Generator)
+> 7/28/2019 - [COMPLETED SECTION](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Summary)
 ---
  
